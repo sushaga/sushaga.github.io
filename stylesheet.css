@@ -75,13 +75,13 @@ a:hover {
 }
 
 ul {
-  margin-top: 4px;      /* Reduces the space above the list */
+  margin-top: 1px;      /* Reduces the space above the list */
   margin-bottom: 15px;  /* Sets the space below the list before the next item */
-  padding-left: 20px;   /* Reduces the default indentation of the bullets */
+  padding-left: 40px;   /* Reduces the default indentation of the bullets */
 }
 
 li {
-  padding-bottom: 3px;  /* Sets the space between individual bullet points */
+  padding-bottom: 0px;  /* Sets the space between individual bullet points */
 }
 
 body,
